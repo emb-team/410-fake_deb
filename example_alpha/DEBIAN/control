@@ -1,0 +1,12 @@
+Package: 
+Source: 
+Version: 
+Architecture: alpha
+Maintainer: o2ee Developers <edmund@o2ee.com>
+Installed-Size: 201
+Depends: 
+Section: libs
+Priority: optional 
+Homepage: http://www.o2ee.com
+Description: fake, lol!
+Original-Maintainer: o2ee <edmund@o2ee.com>
